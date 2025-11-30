@@ -65,9 +65,3 @@ Form Validation: Add client-side or server-side form validation for better data 
 Monu Yaduwanshi - GitHub Profile
 
 Thank you for visiting this project! Feel free to explore, fork, and contribute. Happy coding! 💻✨
-
-
-### Key Customization Notes:
-- Replace `<repository-url>` with the actual repository URL.
-- Update the GitHub profile link with your actual GitHub profile.
-- The description highlights the dynamic nature of the servlet and includes easy-to-follow steps to run the project.
